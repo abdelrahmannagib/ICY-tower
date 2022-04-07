@@ -1,0 +1,29 @@
+﻿  main.cpp
+S:\project 25_5\Project3\Project3\main.cpp(14,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+S:\project 25_5\Project3\Project3\main.cpp(15,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+S:\project 25_5\Project3\Project3\main.cpp(33,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+S:\project 25_5\Project3\Project3\main.cpp(382,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+S:\project 25_5\Project3\Project3\main.cpp(386,61): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\project 25_5\Project3\Project3\main.cpp(387,61): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\project 25_5\Project3\Project3\main.cpp(393,57): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\project 25_5\Project3\Project3\main.cpp(394,57): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\project 25_5\Project3\Project3\main.cpp(464,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+S:\project 25_5\Project3\Project3\main.cpp(464,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+S:\project 25_5\Project3\Project3\main.cpp(480,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project3.vcxproj -> S:\project 25_5\Project3\Debug\Project3.exe
